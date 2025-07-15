@@ -6,6 +6,6 @@ variable "vpc_cidr" {
 variable "aws_region" {
   description = "AWS Region"
   type        = string
-  default     = "ap-south-1b"
+  default     = "ap-south-1"
 }
 
